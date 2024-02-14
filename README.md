@@ -4,3 +4,5 @@
 [lab-3 alpha and beta](https://github.com/udaykiran83358gmailcom/aiml-lab/blob/main/lab_3_alpha_and_beta.ipynb)
 
 [lab-4](https://github.com/udaykiran83358gmailcom/aiml-lab/blob/main/lab_04.ipynb)
+
+[lab_5](https://github.com/udaykiran83358gmailcom/aiml-lab/blob/main/lab05.ipynb)
