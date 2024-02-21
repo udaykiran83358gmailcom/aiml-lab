@@ -9,3 +9,4 @@
 
 [lab_5] :(https://github.com/udaykiran83358gmailcom/aiml-lab/blob/main/lab05.ipynb)
 
+[lab_6 Implement the K Nearest Neighbor Classi cation using Classfied Manufacturing Dataset] :(https://github.com/udaykiran83358gmailcom/aiml-lab/blob/main/LAB_06ipynb.ipynb)
