@@ -14,3 +14,4 @@
 [lab 7] :(https://github.com/udaykiran83358gmailcom/aiml-lab/blob/main/AIML_A6.ipynb)
 
 [lab 8] :(https://github.com/udaykiran83358gmailcom/aiml-lab/blob/main/aiml_lab08.ipynb)
+[lab 9 random forest] (https://github.com/udaykiran83358gmailcom/aiml-lab/blob/main/LAB_009.ipynb)
